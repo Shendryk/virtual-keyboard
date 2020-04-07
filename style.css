@@ -38,31 +38,31 @@ h1 {
     font-family: monospace;
 }
 
-.backspace {
+.Backspace {
     width: 100px;
 }
 
-.tab {
+.Tab {
     width: 50px;
 }
 
-.del {
+.Del {
     width: 44px;
 }
 
-.capslock {
+.CapsLock {
     width: 100px;
 }
 
-.enter {
+.Enter {
     width: 86px;
 }
 
-.shiftleft {
+.ShiftLeft {
     width: 100px;
 }
 
-.shiftright {
+.ShiftRight {
     width: 86px;
 }
 
@@ -70,7 +70,7 @@ h1 {
 
 } */
 
-.space {
+.Space {
     width: 330px;
 }
 

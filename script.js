@@ -105,6 +105,7 @@ window.onload = () => {
       this.ruShift = options.ruShift;
       
     }
+    
   
     pushKey (event) {
       let localObjKey = {}

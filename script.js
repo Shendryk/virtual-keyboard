@@ -63,7 +63,7 @@ window.onload = () => {
     {code: 'ControlLeft', specKey: true, name: 'Ctrl'},
     {code: 'MetaLeft', specKey: true, name: 'Win'},
     {code: 'AltLeft', specKey: true, name: 'Alt'},
-    {code: 'Space', specKey: true},
+    {code: 'Space', specKey: true, name: ''},
     {code: 'AltRight', specKey: true, name: 'Alt'},
     {code: 'ArrowLeft', en: '←', enShift: '←', ru: '←', ruShift: '←'},
     {code: 'ArrowDown', en: '↓', enShift: '↓', ru: '↓', ruShift: '↓'},
